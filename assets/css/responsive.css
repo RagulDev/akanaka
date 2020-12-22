@@ -1,0 +1,437 @@
+@media screen and (max-width:2300px){
+	.carousel-example .carousel-inner{
+		width: 100%;
+		height: 400px;
+	}
+	.carousel-inner .carousel-img{
+		width: 100%;
+		height: 400px;
+		background-position: center;
+		background-size: cover;
+	}
+	.carousel-inner #carousel-src-1{
+		background-image: url("../images/Carousel/banner0\ 1680x400.jpg");
+	}
+	.carousel-inner #carousel-src-2{
+		background-image: url('../images/Carousel/banner1\ 1680x400.jpg');
+	}
+	.carousel-inner #carousel-src-3{
+		background-image: url('../images/Carousel/banner2\ 1680x400.jpg');
+	}
+	.carousel-inner #carousel-src-4{
+		background-image: url('../images/Carousel/banner3\ 1680x400.jpg');
+	}
+	.about .col-md-3{
+		text-align: center;
+		width: 32%;
+		height: fit-content;
+		margin-right: 1%;
+	}
+}
+
+@media screen and (max-width:1680px){
+	.wrap-sticky nav.navbar.bootsnav.sticked .navbar-header a.navbar-brand, .wrap-sticky nav.navbar.bootsnav.sticked .navbar-header a.navbar-brand:hover, .wrap-sticky nav.navbar.bootsnav.sticked .navbar-header a.navbar-brand:focus {
+		padding: 10px 0px 0px 0px;
+	}
+	.carousel-example .carousel-inner{
+		width: 100%;
+		height: 400px;
+	}
+	.carousel-inner .carousel-img{
+		width: 100%;
+		height: 400px;
+		background-position: center;
+		background-size: cover;
+	}
+	.about .col-md-3{
+		text-align: center;
+		width: 32%;
+		height: fit-content;
+		margin-right: 1%;
+	 }
+}/*max-width:1680px*/
+
+@media screen and (max-width:1440px){
+	.single-welcome-hero {
+		height: 807px;
+	}
+	.carousel-example .carousel-inner{
+		width: 100%;
+		height: 400px;
+	}
+	.carousel-inner .carousel-img{
+		width: 100%;
+		height: 400px;
+		background-position: center;
+		background-size: cover;
+	}
+	.carousel-inner #carousel-src-1{
+		background-image: url("../images/Carousel/banner0\ 1440x400.jpg");
+	}
+	.carousel-inner #carousel-src-2{
+		background-image: url("../images/Carousel/banner1\ 1440x400.jpg");
+	}
+	.carousel-inner #carousel-src-3{
+		background-image: url('../images/Carousel/banner2\ 1440x400.jpg');
+	}
+	.carousel-inner #carousel-src-4{
+		background-image: url('../images/Carousel/banner3\ 1440x400.jpg');
+	}
+	.about .col-md-3{
+		text-align: center;
+		width: 32%;
+		height: fit-content;
+		margin-right: 1%;
+	 }
+}/*max-width:1440px*/
+
+@media screen and (max-width:1199px){
+	.attr-nav-1{
+		display: none;
+	}
+	.navbar{
+		height: 80px;
+	}
+	nav.navbar.bootsnav ul.nav > li > a { 
+		padding: 30px 15px;
+	}
+	.dropdown-menu {
+		left: -200px;
+	}
+	
+	.welcome-hero-txt h2,.welcome-hero-txt h3 {
+		font-size: 40px;
+	}
+	.welcome-hero-txt h4 {
+		font-size: 28px;
+	}
+
+	.single-populer-products {
+		min-height: 320px;
+	}
+
+}/*max-width:1199px*/
+
+@media screen and (max-width:1024px){
+	.navbar{
+		height: 80px;
+	}
+	nav.navbar.bootsnav.menu-center ul.nav.navbar-center {
+		float: none!important;
+		margin: 0 auto;
+		display: table;
+	}
+
+	.single-welcome-hero {
+		height:768px;
+	}
+	.single-about-img:before,.single-about-img:after{
+		display: none;
+	}
+	.about .col-md-3{
+		text-align: center;
+		width: 32%;
+		height: fit-content;
+		margin-right: 1%;
+	 }
+}/*max-width:1024px*/
+
+@media screen and (max-width:850px){
+	.carousel-inner #carousel-src-1{
+		background-image: url("../images/Carousel/banner0\ 850x400.jpg");
+	}
+	.carousel-inner #carousel-src-2{
+		background-image: url("../images/Carousel/banner1\ 850x400.jpg");
+	}
+	.carousel-inner #carousel-src-3{
+		background-image: url('../images/Carousel/banner2\ 850x400.jpg');
+	}
+	.carousel-inner #carousel-src-4{
+		background-image: url('../images/Carousel/banner3\ 850x400.jpg');
+	}
+
+}/*max-width:1008px*/
+
+@media screen and (max-width:992px){
+	nav.navbar.bootsnav .navbar-collapse.collapse.in {
+		padding-bottom: 0px;
+	}
+	nav.navbar.bootsnav.menu-center ul.nav.navbar-center {
+		float:left;
+		margin: 0;
+		padding:0;
+	}
+	nav.navbar.bootsnav .navbar-brand {
+		padding: 5px 0 0 0;
+	}
+	nav.navbar.bootsnav ul.nav > li > a {
+		padding: 15px 0px;
+		border: transparent;
+	}
+	.attr-nav > ul > li > a {
+		padding: 20px 15px;
+	}
+	.navbar{
+		height: 80px;
+	}
+}/*max-width:992px*/
+
+@media screen and (max-width:991px){
+	nav.navbar.bootsnav .navbar-brand {
+		padding: 5px 0 0 0;
+	}
+	.wrap-sticky nav.navbar.bootsnav.sticked .navbar-header a.navbar-brand, .wrap-sticky nav.navbar.bootsnav.sticked .navbar-header a.navbar-brand:hover, .wrap-sticky nav.navbar.bootsnav.sticked .navbar-header a.navbar-brand:focus {
+		padding: 5px 0px 0px 0px;
+	}
+	.menu-ui-design{
+		background-color: #ffffff;
+		overflow-y:scroll;
+		height: 300px;
+	 }
+	.single-feature,.single-blog,.single-new-arrival {
+		max-width: 270px;
+		margin: 30px auto;
+	}
+	.single-populer-products {
+		max-width: 350px;
+		margin: 30px auto;
+		min-height: auto;
+		padding-bottom: 30px;
+	}
+	.wrap-sticky nav.navbar.bootsnav.sticked ul.nav > li > a{
+		padding:15px 0px;
+	}
+	.carousel-example .carousel-inner{
+		width: 100%;
+		height: 400px;
+	}
+	.carousel-inner .carousel-img{
+		width: 100%;
+		height: 400px;
+		background-position: center;
+		background-size: cover;
+	}
+	.carousel-inner #carousel-src-1{
+		background-image: url("../images/Carousel/banner0\ 991x400.jpg");
+	}
+	.carousel-inner #carousel-src-2{
+		background-image: url("../images/Carousel/banner1\ 991x400.jpg");
+	}
+	.carousel-inner #carousel-src-3{
+		background-image: url('../images/Carousel/banner2\ 991x400.jpg');
+	}
+	.carousel-inner #carousel-src-4{
+		background-image: url('../images/Carousel/banner3\ 991x400.jpg');
+	}
+	.about .container .hm-footer-details .row .col-md-3{
+		text-align: center;
+	}
+	.contact .contact-inner-1{
+		top: 30%;
+		left: 50%;
+	 }
+	 .contact .contact-inner-2{
+		 top: 50%;
+		right: 50%;
+	 }
+
+}/*max-width:991px*/
+
+@media screen and (max-width:768px){
+	nav.navbar.bootsnav .navbar-brand {
+		padding: 3px 0px 0px 0px;
+	}
+    
+}/*max-width:768px*/
+
+@media screen and (max-width:767px){
+
+	.navbar-brand{
+		padding: 15px 0px 0px 0px;
+	}
+	.wrap-sticky nav.navbar.bootsnav.sticked .navbar-header a.navbar-brand, .wrap-sticky nav.navbar.bootsnav.sticked .navbar-header a.navbar-brand:hover, .wrap-sticky nav.navbar.bootsnav.sticked .navbar-header a.navbar-brand:focus {
+		padding: 3px 0px 0px 0px;
+	}
+	.wrap-sticky nav.navbar.bootsnav.sticked nav.navbar.bootsnav ul.nav > li > a {
+		padding: 15px 25px;
+	}
+	.popular-products{
+		margin: 100px 0 0 0;
+	}
+	.single-welcome-hero {
+		height:auto;
+		background: transparent;
+		padding: 100px 0 0 0;
+		display: block;
+	}
+
+	.feature-content,.blog-content,.new-arrivals-content{
+		margin-top:40px;
+	}
+
+	.carousel-example{
+		height: 300px;
+	}
+	.carousel-example .carousel-inner{
+		width: 100%;
+		height: 400px;
+	}
+	.carousel-inner .carousel-img{
+		width: 100%;
+		height: 400px;
+		background-position: center;
+		background-size: cover;
+	}
+	.carousel-inner #carousel-src-1{
+		background-image: url("../images/Carousel/banner0\ 767x400.jpg");
+	}
+	.carousel-inner #carousel-src-2{
+		background-image: url("../images/Carousel/banner1\ 767x400.jpg");
+	}
+	.carousel-inner #carousel-src-3{
+		background-image: url('../images/Carousel/banner2\ 767x400.jpg');
+	}
+	.carousel-inner #carousel-src-4{
+		background-image: url('../images/Carousel/banner3\ 767x400.jpg');
+	}
+	
+	.contact .contact-container h4,
+	.contact .contact-container a {
+		font-size: 12px;
+	}
+	.about .col-md-3{
+		text-align: center;
+		width: 90%;
+		height: fit-content;
+		margin: 10px;
+	 }
+
+}/*max-width:767px*/
+
+@media screen and (max-width: 660px){
+	
+	nav.navbar.bootsnav .navbar-brand {
+		padding: 3px 0 0 0;
+	}
+
+}/*max-width:660px*/
+
+@media screen and (max-width: 640px){
+	.carousel-inner #carousel-src-1{
+		background-image: url("../images/Carousel/banner0\ 650x400.jpg");
+	}
+	.carousel-inner #carousel-src-2{
+		background-image: url("../images/Carousel/banner1\ 650x400.jpg");
+	}
+	.carousel-inner #carousel-src-3{
+		background-image: url('../images/Carousel/banner2\ 650x400.jpg');
+	}
+	.carousel-inner #carousel-src-4{
+		background-image: url('../images/Carousel/banner3\ 650x400.jpg');
+	}
+
+}/*max-width:640px*/
+
+@media screen and (max-width: 580px){
+
+}/*max-width:580px*/
+
+@media screen and (max-width: 540px){
+	.about .col-md-3{
+		text-align: center;
+		width: 90%;
+		height: fit-content;
+		margin: 10px;
+	 }
+}/*max-width:540px*/
+
+@media screen and (max-width: 480px){
+	.welcome-hero h2 {
+		font-size: 30px;
+	}
+	.carousel-inner img{
+		height: 70%;
+	}
+	.about{
+		padding: 25px 0 25px 0;
+	}
+	.about .col-md-3{
+		text-align: center;
+		width: 90%;
+		height: fit-content;
+		margin: 10px;
+	 }
+	 .carousel-inner .carousel-img{
+		width: 100%;
+		height: 400px;
+		background-position: center;
+		background-size: cover;
+	}
+	.carousel-inner #carousel-src-1{
+		background-image: url("../images/Carousel/banner0 480x400.jpg");
+	}
+	.carousel-inner #carousel-src-2{
+		background-image: url("../images/Carousel/banner1 480x400.jpg");
+	}
+	.carousel-inner #carousel-src-3{
+		background-image: url('../images/Carousel/banner2 480x400.jpg');
+	}
+	.carousel-inner #carousel-src-4{
+		background-image: url('../images/Carousel/banner3 480x400.jpg');
+	}
+	
+}/*max-width:480px*/
+
+@media screen and (max-width: 440px){
+	nav.navbar.bootsnav .dropdown .megamenu-content .col-menu .title{
+		padding: 10px 0px;
+	}
+	.welcome-hero-txt h2{
+		font-size: 24px;
+		line-height: 1.5;
+	}
+	.welcome-hero-txt h3,.welcome-hero-txt h4 {
+		font-size: 24px;
+	}
+	
+}/*max-width:400px*/
+
+@media screen and (max-width:350px){
+	nav.navbar.bootsnav .navbar-toggle {
+		margin-right: -25px;
+		left:-10px;
+	}
+	nav.navbar.bootsnav .navbar-brand {
+		padding:25px 0;
+		font-size: 20px;
+	}
+	.wrap-sticky nav.navbar.bootsnav.sticked .navbar-header a.navbar-brand, .wrap-sticky nav.navbar.bootsnav.sticked .navbar-header a.navbar-brand:hover,.wrap-sticky nav.navbar.bootsnav.sticked .navbar-header a.navbar-brand:focus {
+		padding: 25px 0px;
+	}
+	.wrap-sticky nav.navbar.bootsnav.sticked .attr-nav > ul > li > a {
+		padding: 22px 10px;
+	}
+	.carousel-inner .carousel-img{
+		width: 100%;
+		height: 400px;
+		background-position: center;
+		background-size: cover;
+	}
+	.carousel-inner #carousel-src-1{
+		background-image: url("../images/Carousel/banner0 350x400.jpg");
+	}
+	.carousel-inner #carousel-src-2{
+		background-image: url("../images/Carousel/banner1 350x400.jpg");
+	}
+	.carousel-inner #carousel-src-3{
+		background-image: url('../images/Carousel/banner2 350x400.jpg');
+	}
+	.carousel-inner #carousel-src-4{
+		background-image: url('../images/Carousel/banner3 350x400.jpg');
+	}
+	 
+}/*max-width:350px*/
+
+@media screen and  (max-width: 320px){
+	
+}/*max-width:320px*/

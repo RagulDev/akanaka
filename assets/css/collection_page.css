@@ -1,0 +1,144 @@
+* {
+     box-sizing: border-box;
+   }
+    
+body {
+     margin: 0;
+     font-family: Arial;
+     background-color: #f2f2f2;
+}
+.collection-container{
+     width: 100%;
+     background-color: #f2f2f2;
+     padding-top: 50px;
+}
+.collection-title{
+     text-align: center;
+     font-size: 25px;
+     color: #000000;
+     padding: 20px 0 20px 0;
+}
+
+.row{
+     margin: 0 !important;
+}   
+.collection-gallery{
+     width: 90%;
+     margin: 80px auto;
+     background-color: #ffffff;
+     padding: 30px 0 30px 0;
+}      
+.collection-gallery .row {
+     display: -ms-flexbox; 
+     display: flex;
+     -ms-flex-wrap: wrap; 
+     flex-wrap: wrap;
+     padding: 0 4px;
+     width: 100%;
+}
+
+
+.collection-gallery .column {
+     -ms-flex: 25%; 
+     flex: 25%;
+     max-width: 25%;
+     padding: 0 10px;
+}
+   
+.collection-gallery .column img {
+     margin-top: 20px;
+     vertical-align: middle;
+     width: 100%;
+     height: auto;
+}
+
+   /* Responsive layout - makes a two column-layout instead of four columns */
+   @media screen and (max-width: 800px) {
+     .collection-gallery .column {
+       -ms-flex: 50%;
+       flex: 50%;
+       max-width: 50%;
+     }
+   }
+   
+   /* Responsive layout - makes the two columns stack on top of each other instead of next to each other */
+   @media screen and (max-width: 600px) {
+     .collection-gallery .column {
+       -ms-flex: 100%;
+       flex: 100%;
+       max-width: 50%;
+     }
+   }
+
+   
+@media screen and (max-width:2300px){
+
+}
+
+@media screen and (max-width:1680px){
+	
+}/*max-width:1680px*/
+
+@media screen and (max-width:1440px){
+
+}/*max-width:1440px*/
+
+@media screen and (max-width:1199px){
+
+}/*max-width:1199px*/
+
+@media screen and (max-width:1024px){
+
+}/*max-width:1024px*/
+
+@media screen and (max-width:1008px){
+
+}/*max-width:1008px*/
+
+@media screen and (max-width:992px){
+
+}/*max-width:992px*/
+
+@media screen and (max-width:991px){
+
+}/*max-width:991px*/
+
+@media screen and (max-width:768px){
+
+}/*max-width:768px*/
+
+@media screen and (max-width:767px){
+
+}/*max-width:767px*/
+
+@media screen and (max-width: 660px){
+
+}/*max-width:660px*/
+
+@media screen and (max-width: 640px){
+
+}/*max-width:640px*/
+
+@media screen and (max-width: 580px){
+
+}/*max-width:580px*/
+
+@media screen and (max-width: 540px){
+
+}/*max-width:540px*/
+
+@media screen and (max-width: 480px){
+
+}/*max-width:480px*/
+
+@media screen and (max-width: 440px){
+
+}/*max-width:400px*/
+
+@media screen and (max-width:350px){
+
+}/*max-width:350px*/
+
+@media screen and  (max-width: 320px){
+	
+}/*max-width:320px*/
